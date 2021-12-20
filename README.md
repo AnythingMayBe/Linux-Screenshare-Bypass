@@ -5,7 +5,7 @@ A simple bypass method for https://github.com/Rancio777/Linux-Minecraft-Screensh
 This script simply use a RegEx expression for finding the result file (`.*\.scan`), and edit it
 
 ## How to fix it?
-Simple use **variables**, not copy it in a file.
+Simpely use **variables**, not copy it in a file.
 Example:
 ```bash
 Detections="Check A" # It define the "Detections" variable to "Check A", it actually means we failed Check A.
