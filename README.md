@@ -11,3 +11,4 @@ Example:
 Detections="Check A" # It define the "Detections" variable to "Check A", it actually means we failed Check A.
 NordVPN=true # It define the "NordVPN" variable to "true", it actually means we failed NordVPN's check
 ```
+Also, I don't really know bash, so I maded an over-commented Python script, sorry.
