@@ -12,3 +12,8 @@ Detections="Check A" # It define the "Detections" variable to "Check A", it actu
 NordVPN=true # It define the "NordVPN" variable to "true", it actually means we failed NordVPN's check
 ```
 Also, I don't really know bash, so I maded an over-commented Python script, sorry.
+
+## Disclaimer
+That program don't works with the latest version of their software.
+But, the **idea still works**, if you have a little knowledge of Python and Bash, you can easily make a bypass updated with their latest version.
+I do not recommend to do that for bypassing reasons, do you cheat because you think that's fun or do you cheat because you want to test moderator's knowledge?
